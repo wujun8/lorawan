@@ -3,6 +3,9 @@
 ![Tests](https://github.com/brocaar/lorawan/actions/workflows/main.yml/badge.svg?branch=master)
 [![GoDoc](https://godoc.org/github.com/brocaar/lorawan?status.svg)](https://godoc.org/github.com/brocaar/lorawan)
 
+**Note:** This repository has been archived. With ChirpStack v4, this
+code has migrated to [https://github.com/chirpstack/chirpstack/tree/master/lrwn](https://github.com/chirpstack/chirpstack/tree/master/lrwn).
+
 Package lorawan provides structures and tools to read and write LoRaWAN
 1.0 and 1.1 frames from and to a slice of bytes.
 
